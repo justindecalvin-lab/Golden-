@@ -1,0 +1,6 @@
+{
+  "name": "Stanbax Schools Ibadan - Student Portal & Database",
+  "description": "Official management portal for Stanbax Schools Ibadan, featuring scholar portals, midterm results collation, automated accounts, and live Supabase synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
